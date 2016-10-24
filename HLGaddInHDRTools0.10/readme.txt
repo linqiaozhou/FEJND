@@ -1,0 +1,4 @@
+我们只更改了OETF函数，因此我们的代码是在他们提出的OETF源代码中做出了相应的更改。
+只需将HDRTools1.0中的TransferFunction.cpp用所提供的代码替换，并将TransferFunctionPro.cpp与TransferFunctionPro.H拷贝到HDRTools1.0中/commom/src中即可运行。
+配置文件使用文件中所包含的配置文件。
+
